@@ -9,5 +9,4 @@ CaesarIA does not require any specific frameworks - all the frameworks we need a
 We use "cmake" for creating configs and building the game.
 
 It's also been tested on a variety of other tools on
-Windows/Mac/Linux. More detailed compiling instructions
-and pre-compiled dependencies are available at the [wiki](https://bitbucket.org/dalerank/caesaria/wiki/Compiling).
+Windows/Mac/Linux.
